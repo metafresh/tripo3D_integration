@@ -1,1 +1,1 @@
-# tripo3D_integration
+# tripo3D_frontend
